@@ -1,7 +1,9 @@
 import React from "react";
+//import { useLocalStorage} from "../utils/input"
+
 
 const Players = props => {
-console.log(props)
+//const [players, setPlayers] = useLocalStorage(props)
 
 return (
     <div className="Players">
